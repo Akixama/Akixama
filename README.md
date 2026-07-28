@@ -9,6 +9,9 @@ I work with JavaScript, React, Node.js, Rust and Solana.
 [![GitHub](https://img.shields.io/badge/GitHub-0D1117?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Akixama)
 [![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=x&logoColor=white)](https://x.com/Anjolaoluw_a)
 
+## Languages and Tools:
+
+[![My Skills](https://skillicons.dev/icons?i=html,css,js,ts,react,tailwind,nodejs,express,mongodb,rust,git,github,vscode,linux&theme=dark&perline=8)](https://skillicons.dev)
 </div>
 
 ---
