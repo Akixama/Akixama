@@ -1,16 +1,23 @@
-## Hi there 👋
+<div align="center">
 
-<!--
-**Akixama/Akixama** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# Hi, I'm Anjola 👋
 
-Here are some ideas to get you started:
+### Full-stack developer building practical Web3 products.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I work with JavaScript, React, Node.js, Rust and Solana.
+
+[![GitHub](https://img.shields.io/badge/GitHub-0D1117?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Akixama)
+[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=x&logoColor=white)](YOUR_TWITTER_LINK)
+
+</div>
+
+---
+
+### 🔧 Tech Stack
+
+```text
+Languages     → JavaScript, TypeScript, Rust
+Frontend      → React, Next.js, Tailwind CSS
+Backend       → Node.js, Express, MongoDB
+Blockchain    → Solana, Anchor, Web3.js
+Tools         → Git, GitHub, Vite, VS Code
